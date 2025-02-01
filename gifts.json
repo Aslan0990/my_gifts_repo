@@ -1,1 +1,6 @@
+[
+  {"payload": "gift_red_rose", "name": "Красная роза", "price": 100},
+  {"payload": "gift_teddy", "name": "Медвежонок", "price": 250},
+  {"payload": "gift_chocolate", "name": "Шоколадный набор", "price": 150}
+]
 
